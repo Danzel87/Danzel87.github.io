@@ -21,7 +21,6 @@ fan-threshold70.bin
 fan-threshold75.bin
 frontend.js
 ftp.bin
-goldhen_2.3.bin
 goldhen_2.4b18.5.bin
 history-blocker.bin
 index.html
@@ -29,14 +28,6 @@ int64.js
 jbc_loader.js
 kernel-dumper.bin
 kexploit.js
-Linux-1gb.js
-Linux-2gb.js
-Linux-3gb.js
-Linux-4gb.js
-LinuxPro-1gb.js
-LinuxPro-2gb.js
-LinuxPro-3gb.js
-LinuxPro-4gb.js
 malloc.js
 module-dumper.bin
 netcat.js
@@ -59,3 +50,4 @@ webrte.bin
 
 NETWORK: 
 * 
+
