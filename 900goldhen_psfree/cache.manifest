@@ -3,10 +3,12 @@ CACHE MANIFEST
 CACHE: 
 ../img.jpg
 ../style.css
+../index.html
 aio_patches.bin
 alert.mjs
+cache.html
 config.mjs
-goldhen_2.4b18.6.bin
+goldhen.bin
 index.html
 lapse.mjs
 psfree.mjs
