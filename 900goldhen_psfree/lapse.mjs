@@ -1712,7 +1712,7 @@ export async function kexploit() {
      if (localStorage.ExploitLoaded === "yes" && sessionStorage.ExploitLoaded!="yes") {
 		   setTimeout(PayloadLoader("aio_patches.bin"),500);
 		   setTimeout(PayloadLoader("goldhen.bin"),500);
-		   msgs.innerHTML = "GoldHEN v2.4b18.6 Загружен ...";
+		   msgs.innerHTML = "GoldHEN v2.4b18.7 Загружен ...";
 		   return new Promise(() => {});
       }
  
