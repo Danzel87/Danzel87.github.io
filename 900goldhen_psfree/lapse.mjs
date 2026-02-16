@@ -1712,7 +1712,7 @@ export async function kexploit() {
      if (localStorage.ExploitLoaded === "yes" && sessionStorage.ExploitLoaded!="yes") {
 		   setTimeout(PayloadLoader("aio_patches.bin"),500);
 		   setTimeout(PayloadLoader("goldhen.bin"),500);
-		   msgs.innerHTML = "GoldHEN v2.4b18.8 Загружен ...";
+		   msgs.innerHTML = "GoldHEN v2.4b18.9 Загружен ...";
 		   return new Promise(() => {});
       }
  
@@ -1869,6 +1869,6 @@ setTimeout(PayloadLoader("aio_patches.bin"),500);
 log("AIO Fixes Applied.!");
 //Load GoldHEN :)
 setTimeout(PayloadLoader("goldhen.bin"),500);
-msgs.innerHTML = "GoldHEN v2.4b18.8 Загружен ...";
+msgs.innerHTML = "GoldHEN v2.4b18.9 Загружен ...";
 
 })
